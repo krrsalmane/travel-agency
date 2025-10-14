@@ -27,3 +27,40 @@
 
     
 }
+
+.end-text{
+
+    text-align: center;
+    letter-spacing: 2px;
+    color:black;
+}
+
+section{
+
+   display: flex;
+   justify-content: space-evenly;
+
+    
+
+}
+.social{
+
+    display: flex;
+}
+.section{
+    align-content: center;
+  
+
+}
+.list {
+    display: flex;
+}
+#footerLogo{
+
+
+    display: block;
+}
+.lists{
+
+    list-style-type: none;
+}
