@@ -1,0 +1,61 @@
+
+body{
+
+ background-image: url(/images/Decore.png);
+ background-repeat: no-repeat;
+ background-position: right;
+ background-position-y: top;
+}
+.plane{
+    display: grid;
+     grid-template-columns: 1fr 1fr;
+     gap: 300px;
+    
+    margin-left: 1090px;
+    position: absolute;
+}
+main{
+    width: 100%;
+      display: inline-block;
+    height: 600px;
+    position: relative;
+    background-image: url(/images/FemaleTraveller_1.png);
+    background-position-x: 80%;
+    background-size: 30%;
+    background-repeat: no-repeat;
+    padding-left: 60px;
+}
+.buttons{
+
+    /* display: grid;
+    grid-template-columns:1fr 1fr 1fr ; */
+    display: flex;
+}
+.all-cards{
+    display: flex;
+    
+    
+      align-content: center;
+      justify-content: space-around;
+    
+}
+#second-Section{
+    display: block;
+    margin-top: 60px;
+   
+}
+#div{
+
+
+}
+.one-card{
+
+border: none;
+width: 180px;
+height: 270px;
+box-shadow: 20px 30px 60px rgb(85 85 85 / 20%);
+border-radius: 16px;
+padding-left: 50px;
+padding-top: 19px;
+
+}

@@ -12,6 +12,10 @@
 
 }
 
+.plane{
+    justify-content: space-evenly;
+}
+
 #logo{
 
     padding: 12px;
@@ -63,4 +67,8 @@ section{
 .lists{
 
     list-style-type: none;
+}
+footer{
+
+    margin-top: 100px;
 }
