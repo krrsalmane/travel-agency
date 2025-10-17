@@ -1,0 +1,39 @@
+#Decore2{
+
+   
+    margin-bottom: 300px;
+
+
+}
+body{
+
+    background-image: url(/images/Decore2.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-y: top;
+
+}
+
+.section1{
+
+    margin-left: 40%;
+    margin-top: 10%;
+}
+
+.firstpargh{
+
+
+
+}
+#treeimage{
+
+
+    
+    padding-bottom: 10%;
+}
+
+.firstpargh h1{
+    padding-bottom: 20px;
+
+  font-size:300%;
+}
