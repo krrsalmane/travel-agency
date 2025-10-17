@@ -1,6 +1,7 @@
 .section1 {
 
     display: grid;
+    
 
     margin-right: 55%;
 
@@ -47,4 +48,30 @@ section1 threecards div img {
     justify-content: space-between;
     gap: 60px;
 
+}
+
+#kremlin{
+
+    border-radius: 13px;
+  
+}
+main{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    justify-content: space-around;
+    padding-left: 9%;
+}
+
+.kremlinSection{
+
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+    width: 310px;
+    height: 500px;
+    border-radius: 16px;
+    margin-left: 30%;
+    margin-top: 11%;
+    padding-left: 4%;
+    padding-top: 3%;
 }

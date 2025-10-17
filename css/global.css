@@ -18,7 +18,7 @@
 
 #logo{
 
-    padding: 12px;
+  padding: 12px;
   margin-left: 30px;
 }
 
@@ -28,6 +28,11 @@
     display: flex;
     list-style-type: none;
     padding-top: 21px;
+    font-weight: 900px;
+    color:black ;
+    font-size: 21px;
+    font-weight: bolde;
+    
 
     
 }
